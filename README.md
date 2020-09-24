@@ -1,4 +1,5 @@
-<h3 align="left">I'm Raja Mishra currently a 2nd Year BCA student at @IEM 🏫 and Cyber Security Enthusiast💻.Interested in working on backend, API's, Databases and currently learning about Machine Learning.Occasionaly I do participate in Hackathons 💡</h3>
+<h3 align="left">I'm Raja Mishra currently a 2nd Year BCA student at @IEM 🏫 and Cyber Security Enthusiast💻. <h3>
+<h3 align="left">Interested in working on backend, API's, Databases and currently learning about Machine Learning. Occasionaly I do participate in Hackathons 💡</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raja53a" alt="raja53a" /> </p>
 
